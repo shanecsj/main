@@ -20,14 +20,14 @@ It is written in Java, and has about 15 kLoC.
 remove the used ingredients from their inventory after preparing a recipe. The application should thus provide
 a convenient command to assist the user in accomplishing this task.
 ** Highlights: This feature will be frequently used as it allows users to update their inventory after preparing a recipe.
-** Credits: The implementation and testing of the `Ingredient` and `IngredientList` classes was a team effort which is vital to the successful
+** Credits: The implementation and testing of the `Ingredient`, `IngredientList`, `Inventory` and `Cookbook` classes was a team effort which is vital to the successful
 implementation of this feature.
 
 * *Minor enhancement*: Implemented commands under `cookbook` category
 ** Implemented the add, remove and view commands and their parsers
 ** Implemented skeleton classes for the search commands and their parsers
 
-* *Code contributed*: [https://nus-cs2103-ay1920s2.github.io/tp-dashboard/#search=shanecsj&sort=groupTitle&sortWithin=title&since=2020-02-14&timeframe=commit&mergegroup=false&groupSelect=groupByRepos&breakdown=false[Code contributed by @shanecsj]]
+* *Code contributed*: [https://nus-cs2103-ay1920s2.github.io/tp-dashboard/#search=shanecsj&sort=groupTitle&sortWithin=title&since=2020-02-14&timeframe=commit&mergegroup=false&groupSelect=groupByRepos&breakdown=false&tabOpen=true&tabType=authorship&tabAuthor=shanecsj&tabRepo=AY1920S2-CS2103T-F11-4%2Fmain%5Bmaster%5D[Code contributed by @shanecsj]]
 
 * *Other contributions*:
 
